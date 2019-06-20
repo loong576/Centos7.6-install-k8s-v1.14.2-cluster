@@ -15,6 +15,9 @@ Centos7.6部署k8s(v1.14.2)集群
 <br>
 六、集群测试。**
 <br>
+<br>
+
+<br>
 **环境说明：**
 
 | 主机名 | 操作系统版本 | ip | docker version | kubelet version | kubeadm version | kubectl version | flannel version | 备注 |
@@ -23,7 +26,12 @@ Centos7.6部署k8s(v1.14.2)集群
 | node01 | Centos 7.6.1810 | 172.27.9.135 |Docker 18.09.6 | V1.14.2 | V1.14.2 | V1.14.2 | V0.11.0 | node节点 |
 | node02 | Centos 7.6.1810 | 172.27.9.136 |Docker 18.09.6 | V1.14.2 | V1.14.2 | V1.14.2 | V0.11.0 | node节点 |
 
+
 <br> 
+<br>
+
 **Centos7.6安装详见：**[Centos7.6操作系统安装及优化全纪录 ](https://blog.51cto.com/3241766/2398136)
 <br>
+<br>
+
 **本文链接：**[Centos7.6部署k8s(v1.14.2)集群 ](https://blog.51cto.com/3241766/2405624)
