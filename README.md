@@ -18,6 +18,7 @@ Centos7.6部署k8s(v1.14.2)集群
 <br>
 
 <br>
+
 **环境说明:**
 
 | 主机名 | 操作系统版本 | ip | docker version | kubelet version | kubeadm version | kubectl version | flannel version | 备注 |
